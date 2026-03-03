@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Product Recommendation System
 
 A production-quality recommendation engine using Collaborative, Content-Based, and Hybrid filtering.
@@ -42,3 +43,7 @@ This will:
 - Implement precision@k and recall@k.
 - Wrap `main.py` in a FastAPI interface.
 - dockerize the application.
+=======
+# Production-recommendation-system
+ml project
+>>>>>>> f0fc56d7e78ebc5238dedf6c7bc2db47e8e9de9a
